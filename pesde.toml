@@ -1,5 +1,5 @@
 name = "daireb/numfmt"
-version = "0.2.0"
+version = "0.1.0"
 description = "Number and time formatting for Roblox"
 authors = ["daireb"]
 license = "MIT"
