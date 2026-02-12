@@ -5,7 +5,7 @@ Number and time formatting for Roblox.
 ## Installation
 
 ```sh
-pesde add gh#daireb/numfmt
+pesde add gh#daireb/numfmt#main
 ```
 
 ```luau
